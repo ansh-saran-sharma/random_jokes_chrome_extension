@@ -1,0 +1,12 @@
+{
+	"manifest_version":2,
+	"name":"Random Jokes",
+	"version":"1.0",
+	"description":"Random Chuck Norris Jokes",
+	"author":"Ansh Sharma",
+	"browser_action": {
+		"default_icon":"icons/tab-icon.png",
+		"default_title":"A Joke a Day, keeps Depression away!",
+		"default_popup":"popup.html"
+	}
+}
